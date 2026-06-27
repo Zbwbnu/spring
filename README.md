@@ -2,7 +2,7 @@
 
 -占博文 202411081043 人工智能
 
-## 效果演果
+## 效果演示
 
 ### 阻尼为1时
 ![alt text](1-ezgif.com-video-to-gif-converter-1.gif)
